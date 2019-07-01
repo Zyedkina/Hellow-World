@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-    printf("Hi Anik!\n");
-    printf("Hellow World\n");
+    printf("Hellow World 222\n");
 
 }
 
