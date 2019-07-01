@@ -3,8 +3,10 @@ using namespace std;
 
 int main()
 {
-    printf("Hellow World 1\n");
+    printf("Hi Anik!\n");
+    printf("Hellow World\n");
 
 }
+
 
 
